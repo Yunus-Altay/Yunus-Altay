@@ -6,7 +6,9 @@
 - ⚡ A personality who seeks to push beyond boundaries to evolve and discover && I like to benefit from and cooperate with IT connoisseurs
 - 📫 How to reach me: yunusaltay.nl@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mehmet-yunus-altay/ 
+[<img align="left" alt="MAIL" width="30px" src="./images/Gmail.svg.png" style="padding-right:10px;" />](mailto:yunusaltay.nl@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mehmet-yunus-altay/)
 
 <hr>
 
