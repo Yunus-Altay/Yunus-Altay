@@ -33,3 +33,9 @@
 | Project-103           | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and RDS using AWS Cloudformation](https://github.com/Yunus-Altay/Project-103-Phonebook-Application) |
 | Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/Yunus-Altay/Project-104-kittens-carousel-static-web-s3-cf)            |
 | Project-501           |                 [Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Yunus-Altay/Project-501-Capstone-Project-Blog-Page-App--Django--on-AWS-Environment)                 |
+
+## DevOps Projects
+
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Project-201             |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/Yunus-Altay/Project-201-Phonebook-Application-Terraform)|
