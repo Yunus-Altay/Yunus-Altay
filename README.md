@@ -39,3 +39,4 @@
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |Project-201             |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/Yunus-Altay/Project-201-Phonebook-Application-Terraform)|
+|Project-T01             |[Capstone Project - Blog Page App (Django) on AWS Environment using Terraform](https://github.com/Yunus-Altay/Capstone_project_blog_page_app_using_terraform)|
