@@ -32,7 +32,7 @@
 | Project-102           |            [Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI](https://github.com/Yunus-Altay/Project-102-Roman-Numerals-Converter)             |
 | Project-103           | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and RDS using AWS Cloudformation](https://github.com/Yunus-Altay/Project-103-Phonebook-Application) |
 | Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/Yunus-Altay/Project-104-kittens-carousel-static-web-s3-cf)            |
-| Project-501           |                 [Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Yunus-Altay/Project-501-Capstone-Project-Blog-Page-App--Django--on-AWS-Environment)                 |
+| Project-501           |                 [AWS Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Yunus-Altay/Project-501-Capstone-Project-Blog-Page-App--Django--on-AWS-Environment)                 |
 
 ## DevOps Projects
 
@@ -44,3 +44,4 @@
 |Project-203             |[Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes](https://github.com/Yunus-Altay/203-Kubernetes-Microservice-Phonebook.git)|
 |Project-204             |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Yunus-Altay/204-Ansible-publish-website-postgresql-nodejs-react.git)|
 |Project-205             |[Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Yunus-Altay/cw-todo-app.git)|
+|Project-505             |[DevOps Capstone Project - Microservices CI/CD Pipeline](https://github.com/Yunus-Altay/petclinic-microservices.git)|
