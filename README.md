@@ -1,9 +1,9 @@
 <h1 align="center">Greetings, I'm <a>Mehmet Yunus</a> <br></p> Welcome to My GitHub Page</h1>
 
-- 🔭 Currently practicing **AWS & DevOps**
-- 🌱 Cloud computing is my passion, DevOps is my realm
-- 💬 Dedicated to learn new programming languages, apps, tools and libraries in software development
-- ⚡ A personality who seeks to push beyond boundaries to realize his dreams and explore the future  && I like to benefit from and cooperate with IT connoisseurs
+- 🔭 Working as DevOps and Automation engineer.
+- 🌱 Cloud computing is my passion, DevOps is my realm and Automation is my path.
+- 💬 Dedicated to evolve and broaden my point of view to the horizon.
+- ⚡ A personality who seeks to push beyond boundaries to realize his dreams and discover what lies in the future.
 
 [<img align="left" alt="MAIL" width="30px" src="./images/Gmail.svg.png" style="padding-right:10px;" />](mailto:yunusaltay.nl@gmail.com)
 
