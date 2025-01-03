@@ -34,6 +34,11 @@
 | Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/Yunus-Altay/Project-104-kittens-carousel-static-web-s3-cf)            |
 | Project-501           |                 [AWS Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Yunus-Altay/Project-501-Capstone-Project-Blog-Page-App--Django--on-AWS-Environment)                 |
 
+## Azure Projects
+| Name                  |                                                                                              Description                                                                                              |
+| --------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Project-201 |                             [Phonebook Application (Python Flask) deployed on Azure VMSS with Azure Load Balancer, Autoscale and Azure Database for MySQL Service using Terraform](https://github.com/Yunus-Altay/Azure/tree/main/phonebook-app)    
+
 ## DevOps Projects
 
 |  Name                  |                                                    Description                                                                       |
